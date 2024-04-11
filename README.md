@@ -8,25 +8,25 @@ The AI T&C reviewer is an AI agent that is built with Google's latest AI model, 
 - Can scrape relevant content from the website.
 
 ## Usage
-- fork this github repo 
-- first run this cmd: `pip3 install -r requirements.txt`
-- then this: `streamlit run model.py`
-- a web app will open
-- put your **GEMINI_API_KEY** in the input field
-- enter the website or company name
-- ask the question
-- GEMINI will answer your questions
+1. Fork this GitHub repository.
+2. First, run this command: `pip3 install -r requirements.txt`.
+3. Then, run: `streamlit run model.py`.
+4. A web app will open.
+5. Enter your **GEMINI_API_KEY** in the input field.
+6. Enter the website or company name.
+7. Ask your question.
+8. GEMINI will provide the answers.
 
 ## Limitations
 - Since this is an AI tool, you shouldn't completely rely on the information it presents to you.
 - Sometimes the web app may lag; just refresh the browser in that case.
 
 ## License
-- The project is licensed under the MIT license.
+The project is licensed under the MIT license.
 
 ## Disclaimer
-- The generated outputs may be inaccurate and misleading and may not represent the company's views.
-- Verify the important information.
+The generated outputs may be inaccurate and misleading and may not represent the company's views.
+Verify the important information.
 
 ## Acknowledgements 
 Google for providing [GEMINI API](https://aistudio.google.com/app/prompts/new_chat)
