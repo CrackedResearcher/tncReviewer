@@ -29,8 +29,8 @@ The generated outputs may be inaccurate and misleading and may not represent the
 Verify the important information.
 
 ## Acknowledgements 
-Google for providing [GEMINI API](https://aistudio.google.com/app/prompts/new_chat)
-[STREAMLIT](https://streamlit.io) for helping make responsive web apps 
+- Google for providing [GEMINI API](https://aistudio.google.com/app/prompts/new_chat)
+- [STREAMLIT](https://streamlit.io) for making it easy to make web apps
 
 ## Contributions 
 - If you find any issues or have suggestions for improvements, please open an issue or submit a pull request on the GitHub repository.
