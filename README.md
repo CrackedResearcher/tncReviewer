@@ -22,7 +22,7 @@ The AI T&C reviewer is an AI agent that is built with Google's latest AI model, 
 - Sometimes the web app may lag; just refresh the browser in that case.
 
 ## License
-The project is licensed under the MIT license.
+The project is licensed under the [MIT license](https://github.com/CrackedResearcher/tncReviewer/blob/main/LICENSE).
 
 ## Disclaimer
 The generated outputs may be inaccurate and misleading and may not represent the company's views.
