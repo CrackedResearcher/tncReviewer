@@ -1,0 +1,6 @@
+html2text
+googlesearch-python
+langchain
+beautifulsoup4
+google-generativeai
+streamlit
